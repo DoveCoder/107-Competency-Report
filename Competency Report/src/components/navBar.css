@@ -1,0 +1,10 @@
+.nav {
+    border: 1px solid darkred;
+    border-left: none;
+    border-right: none;
+}
+
+.nav h3 {
+    text-align: center;
+    color: coral;
+}

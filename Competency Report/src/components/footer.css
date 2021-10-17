@@ -1,0 +1,17 @@
+.footSection {
+    background-color: darkgray;
+    padding-top: .5rem;
+    border: 1px solid darkred;
+    border-right: none;
+    border-left: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.footSection h5 {
+    font-size: .6rem;
+}
+
+.footSection h6 {
+    font-size: .5rem;
+}

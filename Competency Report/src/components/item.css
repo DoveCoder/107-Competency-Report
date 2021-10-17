@@ -1,0 +1,24 @@
+.item {
+    box-sizing: border-box;
+    border-bottom: 1px solid #333;
+    box-shadow: inset black 1px 1px .05px;
+    width: 250px;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.item img {
+    margin: 0;
+    width: 200px;
+    height: 200px;
+}
+
+.item h5 {
+    margin-top: 5px;
+}
+
+.item .controls {
+    display: flex;
+    justify-content: center;
+}

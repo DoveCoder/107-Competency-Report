@@ -1,0 +1,21 @@
+.catalog .item{
+    display: inline-block;
+    margin: .5rem;
+}
+
+.catalog h3 {
+    font-size: 1rem;
+}
+
+.filters {
+    margin: 2rem;
+    padding: 1rem;
+}
+
+button {
+    margin-right: 10px !important;
+}
+
+.catalog h1 {
+    margin-top: 1.5rem;
+}
